@@ -24,5 +24,13 @@ end
 
 def order_of_operation(num1, num2, num3, num4)
   #Hint:  __ + (( __ * __ ) / __ )
-  num1+ ()
+  num1+ ()(num2 * num3) /num4)
 end
+
+#require "spec_helper"
+#describe "#catch_phrase" do
+#it "puts out a catch phrase" do
+#  phrase = "It's-a me, Mario!"
+#  expect{catch_phrase(phrase)}.to output("It's-a me, Mario!\n").to_stdout
+#  end
+#end
